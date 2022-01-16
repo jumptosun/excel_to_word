@@ -157,3 +157,5 @@ cython_debug/
 
 # vscode
 .vscode/
+
+e2w-v0.1.0*
