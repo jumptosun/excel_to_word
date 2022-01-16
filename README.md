@@ -24,3 +24,6 @@ optional arguments:
   -w TEMPLATE_WORD_FILE
                         input temple word file
 ```
+
+# 图形工具
+在 release 页面下载文件，解压点击 e2w.exe 即可使用
